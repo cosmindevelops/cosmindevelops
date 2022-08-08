@@ -3,7 +3,9 @@
 I'm Andrew from Romania, I am a Developer. I enjoy learning languages and frameworks like Spring Boot and Hibernate, as well as working in Java. I enjoy building applications from scratch.
 - 🔭 I’m currently working on my own projects 
 ## Skills and Experience
+
 :computer: Java, SQL, HTML, CSS
+
 :package: Spring Boot, Hibernate
 <br>
 
