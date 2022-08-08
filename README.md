@@ -6,7 +6,11 @@ I'm Andrew from Romania, I am a Developer. I enjoy learning languages and framew
 
 :computer: Java, SQL, HTML, CSS
 
+:hammer: JUnit, Mockito
+
 :package: Spring Boot, Hibernate
+
+
 <br>
 
 
