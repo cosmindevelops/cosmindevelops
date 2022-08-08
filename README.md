@@ -1,5 +1,5 @@
 ![Development](https://img.freepik.com/premium-vector/cloud-computing-concept_43778-430.jpg?w=1800)
-## Cosmin Andrei
+## About me
 I'm Andrew from Romania, I am a Developer. I enjoy learning languages and frameworks like Spring Boot and Hibernate, as well as working in Java. I enjoy building applications from scratch.
 - 🔭 I’m currently working on my own projects 
 ## Skills and Experience
