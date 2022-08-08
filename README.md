@@ -10,8 +10,6 @@ I'm Andrew from Romania, I am a Developer. I enjoy learning languages and framew
 
 :package: Spring Boot, Hibernate
 
-<br>
-
 ## Check my latest project
 
 [Spring boot - Blog application](https://github.com/Andrew-Develops/JavaProjects/tree/main/JavaBlogApp)
