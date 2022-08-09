@@ -28,7 +28,8 @@ I'm Andrew from Romania, I am a Developer. I enjoy learning languages and framew
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-develops&show_icons=true&locale=en&layout=compact" alt="andrew-develops" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-develops&show_icons=true&locale=en" alt="andrew-develops" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=andrew-develops&show_icons=true&locale=en" alt="andrew-develops" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-develops&" alt="andrew-develops" /></p>
 
