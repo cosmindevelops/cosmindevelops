@@ -4,7 +4,7 @@ I'm Andrew from Romania, I am a Developer. I enjoy learning languages and framew
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on my own projects 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Angular**
 
 <br>
 
