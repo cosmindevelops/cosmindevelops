@@ -10,7 +10,7 @@ I'm Andrew from Romania, I am a Developer. I enjoy learning languages and framew
 
 <h3 align="left">Skills and Experience:</h3>  
 
-:computer: Java, SQL, HTML, CSS
+:computer: Java, SQL, HTML, CSS, JavaScript
 
 :hammer: JUnit, Mockito
 
