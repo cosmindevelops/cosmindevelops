@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<h2 align="left">Languages and Tools</h2>
+# 💻 Tech Stack:
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-## 📊 My Github Stats
+# 📊 GitHub Stats:
 
   <br/>
     <a href="https://github.com/andrew-develops/github-readme-stats"><img alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrew-develops&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -41,7 +41,7 @@
 <br>
 <br>
 
-## Connect with me
+# 🌐 Connect With Me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/cosminfuica/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
